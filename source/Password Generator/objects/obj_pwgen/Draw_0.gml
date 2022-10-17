@@ -127,7 +127,7 @@ draw_button_pg(89, 321, 64, "", c_blueberry, true, true, true, (scale_double ? s
 draw_button_pg(499, 321, 64, "", c_blueberry, true, true, true, spr_icon_load);
 draw_button_pg(573, 321, 64, "", c_blueberry, true, true, true, spr_icon_save);
 draw_button_pg(647, 321, 64, "", c_blueberry, true, true, true, spr_icon_reload);
-draw_button_pg(721, 321, 64, "", c_blueberry, true, true, true, spr_icon_info);
+//draw_button_pg(721, 321, 64, "", c_blueberry, true, true, true, spr_icon_info);
 
 //draw password box
 draw_button_pg(15, 15, 770, "", c_black, false, true, true);
